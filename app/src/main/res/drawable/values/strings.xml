@@ -1,0 +1,347 @@
+<resources>
+
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="b2">Bank of India</string>
+    <string name="b3">Central Bank of India</string>
+    <string name="b4">Citi Bank</string>
+    <string name="b5">City Union Bank</string>
+    <string name="b6">Corporation Bank</string>
+    <string name="b7">Development Credit Bank</string>
+    <string name="b8">Federal Bank</string>
+    <string name="b9">HDFC Bank</string>
+    <string name="b10">ICICI Bank</string>
+    <string name="b11">IDBI Bank</string>
+    <string name="b12">IJS Bank</string>
+    <string name="b13">Indian Bank</string>
+    <string name="b15">Induslnd Bank</string>
+    <string name="b16">ING Vysya Bank</string>
+    <string name="b17">Jalgaon Janata Sahakari Bank</string>
+    <string name="b18">Jammu and Kashmir Bank</string>
+    <string name="b19">Karur Vysya Bank</string>
+    <string name="b20">Kotak Mahindra Bank</string>
+    <string name="b21">Oriental Bank of Commerce</string>
+    <string name="b22">PMC Bank</string>
+    <string name="b23">Punjab and Sind Bank</string>
+    <string name="b24">Punjab National Bank</string>
+    <string name="b25">Ratnakar Bank</string>
+    <string name="b26">Saraswat Bank</string>
+    <string name="b27">South India Bank</string>
+    <string name="b28">State Bank of Bikaner and Jaipur</string>
+    <string name="b29">State Bank of Hyderabad</string>
+    <string name="b30">State Bank of India</string>
+    <string name="b31">State Bank of Patiala</string>
+    <string name="b32">Syndicate Bank</string>
+    <string name="b33">The Mahanagar Co op Bank</string>
+    <string name="b34">United Bank of India</string>
+    <string name="b35">Vijaya Bank</string>
+    <string name="b36">Yes Bank</string>
+
+    <string name="Axis_Bank">
+
+<b>Address</b> - 4, Koshi Apt. Co-Op. Hsg. Society, Near Dev Super Market, Samarth Nagar, Nasik 422005 Maharashtra, Nashik, Maharashtra - 422005 \n\n
+<b>Address</b> - Addnl Cd Shop No. 7, Jaldhara Apartment, Bytco Point, Nashik Road, Nashik, Nashik, Maharashtra \n\n
+<b>Address</b> - Addnl Cd Shriram Krupa Building, Panchavati Karanja, Nashik, Nashik, Maharashtra \n\n
+<b>Address</b> - Big Bazaarurban Space, Plot No. 2, Survey No. 18 B, Next To Bell Temple, Opp. Indian Security Press Hosp ital, Deolali, Nasik-422101, Nashik, Maharashtra 422 101 \n\n
+<b>Address</b> - Ground Floor and Basement, Dhage Tower, S.No.104/18/1, Cts No.6194A, At Panchvati, Peth Naka, Opp. Bhakti Dham, Peth Road, Dist: Nashik 422 003, Nashik, Maharashtra 422 003 \n\n
+<b>Address</b> - Home No.850/1, Main Road, Shivaji Chowk, Bhagur, Nashik Maharashtra 422502, Nashik, Maharashtra 422 502 \n\n
+<b>Address</b> - Hotel Shivanga Adgaon Naka, Panchvati Nashik 422003, Nashik, Maharashtra 422003 \n\n
+<b>Address</b> - Kadam Mansion, Near Icici Bank Dr. Moonje Marg, Mahatma Nagar, Nashik 422007 Maharashtra, Nashik, Maharashtra 422 007 \n\n
+<b>Address</b> - M/S. Jindal Saw Ltd. Plot A-59/60, Midc Area, Sinnar, Tq. Sinnar, Dist. Nashik, Nashik, Maharashtra \n\n
+<b>Address</b> - Mazda Tower, Opp Zilla Parishad, Trambak Naka, Nasik, Nasik Branch Malpani Pride, Behind Raymons Showroom, Off. Sharanpur Road, Nasik 400002. , Nashik, Maharashtra 400 002
+<b>Address</b>  - Mcdonalds Opposite Big Bazaar Atm Mcdonalds Opposite Big Bazaar, College Road, Nashik, Nashik, Maharashtra \n\n
+<b>Address</b>  - Nashik Branch Gr. Floor, And St Floor, Asg 44/45, Sahyadri Nagar 422009, Maharashtra, Nashik, Maharashtra 422 009 \n\n
+<b>Address</b>  - Nashik Branch Shop No.5 A And B, Ground Floor, Rishiraj Regency, Opp. Pumping Station, Gangapur Road, Nashik 5, Nashik, Maharashtra \n\n
+<b>Address</b>  - Nashik Road Branchshop No. 2, Anand Commerce Centre, S. No. 306, Plot No. 08, Taluka Deolali, Nashik Road 422 101, Maharashtra, Nashik, Maharashtra 422 101 \n\n
+<b>Address</b>  - Nasik Branch Ii Atm Malpani Pride, Behind Raymons Showroom, Off. Sharanpur Road, Nasik 400002., Nashik, Maharashtra 422 002 \n\n
+<b>Address</b>  - Pantaloon, City Centre Nashik, Lawate Nagar, Near Pwd Office, Nashik 422002, Nashik, Maharashtra 422 002 \n\n
+<b>Address</b>  - Plot No. 69, Midc, Satpur, Nashik , Nashik, Maharashtra \n\n
+<b>Address</b>  - Purab Paschim Complex Ii Atm Shop No. G-26, Purab Paschim Plaza, Trimurti Chowk, Cidco, Nashik, Nashik, Maharashtra \n\n
+<b>Address</b>  - Saubhagya Nagar Shop No.6 , Sree Sambhav Co Op Society, Lam Road, Saubhagya Nagar Nashik Road, 422101 , Nashik, Maharashtra 422 101 \n\n
+<b>Address</b>  - Shop No. 10, Jamin Appts, Bodhle Nagar, Nashik Pune Highway, Nashik 422002, Nashik, Maharashtra 422 002 \n\n
+<b>Address</b>  - Shop No. 4, Shilaja Apartment, Dsouza Colony Corner, Gangapur Road, Nashik 422005., Nashik, Maharashtra 422 005 \n\n
+<b>Address</b>  - Shop No. 7, Jaldhara Apartment, Bytco Point, Nashik Road, Nashik , Nashik, Maharashtra \n\n
+<b>Address</b>  - Shop No. 745, Keshav Chambers, Ravivar Peth, Karanja, Nasik, Maharashtra 422001., Nashik, Maharashtra 422 001 \n\n
+<b>Address</b>  - Shop No. A-1, Mayur Plaza, Off.Dwarka Circle, Mumbai-Agra Road, Nashik 422 001, Nashik, Maharashtra 422 001 \n\n
+<b>Address</b>  - Shop No. G-26, Purab Paschim Plaza, Trimurti Chowk, Cidco, Nashik , Nashik, Maharashtra \n\n><b>Address</b>  - Shop No. Gm-12C, Opp. Dr. House, Thakkar Bazzar, Trimbak Road, Nashik-422001, Nashik, Maharashtra 422 001 \n\n
+    <b>Address</b>  - Shop No.1, Amidhara Appt.6 Th Scheme, Cidco, Opp.State Bank Of Patiala , Pawan Nagar , Nashik Maharashtra 422009., Nashik, Maharashtra 422 009 \n\n
+    <b>Address</b>  - Shop No.1, Iswarkripa Apartment, 60 Feet Rd, Ganjmal, Nashik, 422002 Maharashtra, Nashik, Maharashtra 422 002 \n\n
+    <b>Address</b>  - Shop No.1, Nr. Sbi Sinner Bus Stand, Nashik Maharashtra 422101, Nashik, Maharashtra 422101 \n\n
+    <b>Address</b>  - Shop No.12, Surkan Arcade, Bhujbal Farm Road, Cidco, Nashik, Nashik, Maharashtra \n\n
+    <b>Address</b>  - Shop No.17, Nishigandha Apartment, Khetwani Nagar, Untwadi Road, Nasik Nagar, City Centre Mall And Bafna Jewellers Opp. Khetwani Lawns Nasik 422003 Maharashtra, Nashik, Maharashtra 422 003 \n\n
+    <b>Address</b>  - Shop No.3, Gaurav Complex, Opp. Saraswat Bank, Jail Road, Nashik, Maharashtra 422101, Nashik, Maharashtra 422 101\n\n
+    <b>Address</b>  - Shop No.4, Mankodi Mension, Behind Niranjan Auto Services, Dr. Ambedkar Road, Nashik Road Bus Stand, Nashik 422101, Nashik, Maharashtra 422 101 \n\n
+    <b>Address</b>  - Shop No.4, Narayan Sankul, Near Mahalaxmi Theatre And Chopra Hospital , Opp. Market Yard, Dinori Road, Nashik , Maharashtra 422003, Nashik, Maharashtra 422 003 \n\n
+    <b>Address</b>  - Shop No.4, Yogeswar General Stores Vrushali Hsg. Soc. Kathe Galli Dwarka, Nasik Maharashtra, Nashik, Maharashtra \n\n
+    <b>Address</b>  - Shop No.5, Kailashji Housing Society, A1 Building Jail Road, Opp. Central Jail Chintamani Lawns Nashik 422 101 Maharashtra, Nashik, Maharashtra 422 101 \n\n
+</string>
+    <string name="Bank_Of_Baroda">
+
+<b>Address</b> - Avadh Bunglow, Bytco Road, Nasik Road \n\n
+<b>Address</b> - G1 Ground Floor, Shopping Centre, Plot No 271, Dwarka Circle, Nh3, Nasik, Maharashtra 422013 \n\n
+<b>Address</b> - Gauri Shankar Tilak Road Nasik City \n\n
+<b>Address</b> - Shop No 2-6, Dnyanganga Apartment, Trimurthy Chowk, Ambad Link Road, Nashik, Maharashtra \n\n
+<b>Address</b> - Shop No 3, Plot No 5, Pushkraj Apartment, Thatte Nagar Ganga Pur Road \n\n
+<b>Address</b> - Trimbak Road \n\n
+<b>Address</b> - Udhog Bhawan, Shop No.7, Near ITI Signal, Triyambak Road, Pimpalgaon Bahula (Satpur) \n\n
+	</string>
+
+    <string name="Central_Bank_of_India">
+
+<b>Address</b> - Artillery Training Center, Nashik Road, Deolali \n\n
+<b>Address</b> - Central Bus Stand, Nasik \n\n
+<b>Address</b> - Gala No-819, Shivaji Chowk, Infrant Of Central Bank Of India, Manmad, 423104 \n\n
+<b>Address</b> - Jalalpur Branch, At Jalalpur, Post Goverdhan, Tah . Dist Nasik, Maharashtra-422222 \n\n
+<b>Address</b> - Nasik Branch, Madhusanchaya, Tilak Road, Nasik City, District: Nasik, Maharashtra-422001 \n\n
+<b>Address</b> - Nasik Road Branch, Sarthak, Near Hotel Manasi Tourist, Nasik Pune Road, District: Nasik, Maharashtra-422101. \n\n
+<b>Address</b> - Near Tramkeshwar Temple, Nashik \n\n
+<b>Address</b> - Plot 34, Shravan Sector, Near Symboisis College, Ambad Link Rd., Nasik-422008 \n\n
+<b>Address</b> - Plot No-29, Ratan Krupa Building, Shop No 10, Nasik Pune Highway, Bytco Point, Nasik Road, Nasik \n\n
+<b>Address</b> - Satpur Industrial Estate Branch, Plot No. P-63, Midc Industrial Estate, Satpur, Nasik, District: Nasik, Maharashtra-422007. \n\n
+<b>Address</b> - Shivam Complex Gala No.4 Survey No 16, Plot No 12, Malegaon Camp Malegaon-423203 \n\n
+<b>Address</b> - Sinnar Branchsr No-1027/2 A Shop No-G 21 and 22, Sinnar, District: Nasik, Maharashtra-422103 \n\n
+
+	</string>
+    <string name="Citi_Bank">
+<b>Address</b> - Citibank N.A., Rushiraj Presidency, Opp. To Bhonsala Military School, No. 52 and 53, D\'Souza Colony, College Road,Nasik 422 005.
+    </string>
+
+    <string name="city_union_bank">
+        <b>Address</b>- No.201, Patel Retreat, Patil Lane No. 4, Off. College Road, Nashik 422 005, Maharastra, Pincode: 422005
+    </string>
+
+    <string name="corporation_bank">
+        <b>Adddress- </b>Corporation Bank, LIC of India, Sahyadri Building, Gr. Floor, Gole Colony, Nasik 422 001
+    </string>
+    <string name="development_credit_bank">
+        <b>Address</b>- R Square Building Near Yamaha Showroom Wadnagare Automobiles College Road Nashik -422005
+    </string>
+
+    <string name="federal_bank">
+    <b>Address</b>- The Federal Bank Ltd, Surgana House Compound, Near Zilla Parishad, Trimbak Road, Nasik
+</string>
+    <string name="hdfc_bank">
+
+        <b>Address</b> - 27, Lam Raod Deolali Central Mall Deolali Camp Deolali Camp Nasik Nashik 422401 Maharashtra India\n\n
+<b>Address</b>- 3, Vastushree Thatte Nagar College Link Road College Road Gangapur Raod Nashik 422005 Maharashtra India\n\n
+<b>Address</b>- Bhujbal Knowledge City , Mumbai Education Trust , Adgaon , Nashik Adgaon Nashik 422003 Maharashtra India\n\n
+<b>Address</b>- Bhujbal Knowledge City, Mumbai Education Trust, Adgaon, Nashik Adgaon Nashik 422003 Maharashtra India\n\n
+<b>Address</b>- Gate No 1086 Niphad To Vinchur Road Opposite Laxmi Petrol Pump Niphad Nasik 422303 Maharashtra India\n\n
+<b>Address</b>- Grampanchayat, At Post Sonjamb, Taluka Dindori Sonjamb Nasik 422205 Maharashtra India\n\n
+<b>Address</b>- Jande Park Takali Road Dwarka Dwarka Nasik 422011 Maharashtra India\n\n
+<b>Address</b>- Plot No. 80/89, Mahindra and Mahindra Ltd., R and D Centre, M.I.D.C.Satpur Nashik 422007 Maharashtra India\n\n
+<b>Address</b>- Roongtha Shoping Mall, Mahajan Nagar, Trimurthi Chowk To Ambad Link Road, Mahajan Nagar Cidco Nashik 422007 Maharashtra India\n\n
+<b>Address</b>- Shop 1, Suyogit Sankul, Ground Floor Tilakwad Sharanpur Road Nasik Nashik Suyojit Sankul Nashik 422002 Maharashtra India\n\n
+<b>Address</b>- Shop No 1, Chordia Sadan, Baba Ambedkar Rd, Opp Durga Mandir, Next To Sbi Branch Chordia Sadan Nashik Road Nashik 422101 Maharashtra India\n\n
+<b>Address</b>- Shop No 1, Gopal Krishna Apartment, Uttam Nagar, Panditnagar Uttam Nagar Nashik 422008 Maharashtra India\n\n
+<b>Address</b>- Shop No 1, Ground Floor, Aai Apartments, S. No 913, Plot No 10, Shravan Sector, Cidco, Near Namrata Petrol Pump, Pathardi Phata New Nashik Nashik 422009 Maharashtra India\n\n
+<b>Address</b>- Shop No 1, Ramrajaya Building No 8 , Nr. Bhonsala Military School, Bhonsala Military School College Road Nashik 422005 Maharashtra India\n\n
+<b>Address</b>- Shop No 1, Ramrajaya Building No 8, Nr. Bhonsala Military School, Bhonsala Military School College Road Nashik 422005 Maharashtra India\n\n
+<b>Address</b>- Shop No 1, Shree Laxmi Narayan Sunder Dham Appt, Dindori Road, Mhasrul Nashik 422003 Maharashtra India\n\n
+<b>Address</b>- Shop No 1,Shree Laxmi Narayan Sunder Dham Appt , Dindori Road, Mhasrul Nashik 422003 Maharashtra India\n\n
+<b>Address</b>- Shop No 220/295 , Krishnachintan, NasikPune Highway Opp. S T Stand, Near Waje Petrol Pump and Yash Raj Hotel Sinnar Nashik 422103 Maharashtra India\n\n
+
+    </string>
+    <string name="icici_bank">
+    <b>Address</b> - ICICI Bank ATM, A shop II Near Artilary center Gate. Near military camp Lavte mala Nasik road Nashik 422101, Nasik, Maharashtra, 422101\n\n
+    <b>Address</b> - ICICI Bank ATM, Abb LTD, Plot #79, Satpur Midc, Satpur, Nashik 422007, Nasik, Maharashtra, 422007\n\n
+
+    <b>Address</b> - ICICI Bank ATM, Air Force Stn, Mig, Ozar, Nashik, Nasik, Maharashtra, 422207\n\n
+
+    <b>Address</b> - ICICI Bank ATM, Akash Petrol Pump Dindori Road Mhasarul Nashik Nashik Maharashtra 422009, Nasik, Maharashtra, 422007\n\n
+
+    <b>Address</b> - ICICI Bank ATM, Anand Vijay Sankul, Shop #4, Near Cnp, Jail Road, Nashik, Nasik, Maharashtra, 422101\n\n
+
+    <b>Address</b> - ICICI Bank ATM, Artillary Centre, Near Topchi Cinema, Gandhi Nagar, Nasik, Nasik, Maharashtra, 422101\n\n
+
+   <b>Address</b> - ICICI Bank ATM, Arunachal Soc. Bodhle Nagar, Nasik-Poona Rd, Nasik, Maharashtra, 422006\n\n
+
+    <b>Address</b> - ICICI Bank ATM, Ashwin Clinic, Old Adgao Naka, Near Katya Maruti P, Nasik, Maharashtra, 422003\n\n
+
+    <b>Address</b> - ICICI Bank ATM, Ashwin Sector, Umaya Park, Cidco, Nasik, Nasik, Maharashtra, 422009\n\n
+
+    <b>Address</b> - ICICI Bank ATM, Bpcl-H.L. Dhatrak and Co., Near Fame Multiplex, Nashik -Pune Road, Nashik 422101. (Maharashtra), Nasik, Maharashtra, 422101\n\n
+
+    <b>Address</b> - ICICI Bank ATM, Bpcl-Prakash Auto, Near Vishal Mega Mart, Mumbai Naka, Nashik 422 009 (Maharashtra), Nasik, Maharashtra, 422009\n\n
+
+    <b>Address</b> - ICICI Bank ATM, CEAT Nasik, Nasik, Maharashtra, 420007\n\n
+
+    <b>Address</b> - ICICI Bank ATM, Chanakya Apartment, B/H Akashwani Tower, Gangapur Road, Nasik, Maharashtra, 422013\n\n
+
+    <b>Address</b> - ICICI Bank ATM, Gokhale Education society, Collage Road, Nashiknas, Nasik, Maharashtra, 422005\n\n
+
+    <b>Address</b> - ICICI Bank ATM, Ground Floor, Ashwin Height, Asd 1 and 2, Ashwin Nagar Cidco, Ambad Nasik, Nasik, Maharashtra, 422009\n\n
+
+    <b>Address</b> - ICICI Bank ATM, Indira Garden, Shri Mangal, Nasik, Maharashtra, 422009\n\n
+
+    <b>Address</b> - ICICI Bank ATM, Jain Gurukul Entrance, Neminagar Agra-Mumbai Road, Nasik, Maharashtra, 423101\n\n
+    </string>
+    <string name="idbi_bank">
+        Address - Ground Floor Apollo Clinic, Suyojit Commercial Complex Mumbai Naka Mumbai Agra Road\n\n
+<b>Address</b>- Idbi Bank Ltd., Bodke Plaza, Shop No. 6, 7, 8, Gr. Floor, Near Dwarka Circle, Nasik-Pune Road, Nasik 422011, Maharashtra\n\n
+<b>Address</b>- M/S Powerdeal Energy Systems (I) Pvt Ltdvilloli Mumbai Agra Road\n\n
+<b>Address</b>- Mauli Palace Patil Lane Trimbakeshwar\n\n
+<b>Address</b>- Mukhyalaya Topkhana Schoolheadquaters, School Of Artillery C/O 56 Apo\n\n
+<b>Address</b>- Prathamesh Apartment Thattenagar Gangapur\n\n
+<b>Address</b>- Rajan Complex Dattamandir Nasik Pune Highway\n\n
+<b>Address</b>- Shop No 2 430 J 7 Shriram Wadi M G Road\n\n
+<b>Address</b>- Shop No-6, Bhavasa Co-Op Society, Rto Corner, Dindori Road, Mhasrul\n\n
+<b>Address</b>- Shop No.G-33, Purab Paschim Plaza, Trimurti Chowk\n\n
+
+    </string>
+
+    <string name="ijs_bank">
+        <b>Address</b>-Suyojit Sankul, G 3, Ground Floor, Near Rajiv Gandhi Bhavan, Sharanpur Road, Old Gangapur Naka, Nasik-422002
+    </string>
+
+    <string name="indian_bank">
+        <b>Address</b>- Nasik 480 Yswamy R P Road Nashik maharashtra 422002
+    </string>
+
+    <string name="indian_overseas_bank">
+
+        <b>Address</b>- NASIK ROAD RAILWAY STATION NASIK ROAD 422101\n\n
+<b>Address</b>- SHOP NO.13, MAHALAXMI ENCLAVE, NEAR CAMBRIDGE SCHOOL, INDIRA NAGAR, NASIK, Pincode 422008
+
+    </string>
+
+    <string name="induslnd_bank">
+        <b>Address</b>- 9, Siddhi towers, Indra Kund, Panchavati, Nashik 422 003\n\n
+<b>Address</b>-Himalaya Co Op Hsg Soc. Ltd., Dattamandir, Bus Stop, Nashik Pune Road, Nashik Road 422101.\n\n
+<b>Address</b>-Thakkers Nexus Point, Ground Floor, College Road, Near Bhosle Military School Nashik\n\n
+
+    </string>
+
+    <string name="ing_vysya_bank">
+        <b>Address-</b>ING, Shop No. 5, Rushiraj Heights Apartment, Near Mahatma Nagar Water Tank, Mahatma Nagar, Nasik 422 001
+    </string>
+
+    <string name="jalgaon_bank">
+    <b>Address</b>- Cts No.7403, Ramrajya, Building No.6, Ground Floor Dr.Monje Marg, Samartha Nagar, Nasik-5\n\n
+<b>Address</b>- Shop No 3 To 6, Shri Mahadev Complex, Near Adarsh School, Opp.C.B.S., Old Agra Road, Nasik-422001
+</string>
+
+    <string name="jammu_and_kashmir_bank">
+
+        <b>Address</b>- 22/30. Ward No. 38. New Residency Road. Sardar. Nagpur\n\n
+<b>Address</b>Viraj Corner Complex Shop No. 13 14 Ground Floor Canada Corner, Nashik, Maharashtra
+
+    </string>
+
+    <string name="karur_vysya_bank">
+    <b>Address</b>-Vishwanath Sankul, College Road, Opp. Vijan Hospital, Near Big Bazaar, Nasik 422 005
+    </string>
+
+    <string name="kotak_mahindra_bank">
+    <b>Address</b>- Cinemax, City Centre, Plot No. 117 S.N. 717/1/2, Lawate Nagar, Unthwadi Road, Nashik 422 002
+    </string>
+    <string name="oriental_bank_of_commerce">
+    <b>Address</b>- Caves Arcade, 1St Floor, Shalimar Chowk, Shivaji Road, Nasik\n\n
+    <b>Address</b>- Chordiya Nivas, Near Sbj, Nasik Kalyan Road, Taluka:Dindori, District: Nasik\n\n
+
+</string>
+
+    <string name="pmc">
+        <b>Address</b>- Shop No. 15 To 18, Gulmohar Arcade, Sharanpur Road, Canada Corner, Nashik\n\n
+<b>Address</b>Shop No. G-10A, G-10B, Suyojit Arcade, Bodhale Nagar, Nashik Pune Road, Shivaji Nagar, Nashik
+    </string>
+
+    <string name="punjab_and_sindh_bank">
+    <b>Address</b>- Hardik Complex, Samrat Group Building, Opposite Ambedkar Nasik-Pune Road, Nasik 422 006,
+</string>
+
+
+    <string name="punjab_national_bank">
+    <b>Address</b>- 296, Bele Sankul, Ravivar Karanjia, Nasik City\n\n
+    <b>Address</b>- Artillery Centre, Nasik Road Camp, Nasik Road, Maharashtra 422102\n\n
+    <b>Address</b>- Gaikwad City Bazar, Nasik Road, Nasik, Maharashtra\n\n
+    </string>
+
+
+    <string name="ratnakar_bank">
+   <b>Address</b> - Ratnakar Bank ATM Centre, Shop No .6, Gurukrupa App Peth Phata Signal, Panchavati Nashik 422103\n\n
+    <b>Address</b> - The Ratnakar Bank ATM Center, Shop No 1, Swar Sangam Appt, Bhabhanagar, Mumbai Naka, Nasik 422011\n\n
+   <b>Address</b> - The Ratnakar Bank Ltd, Shop No.1A, Ground Floor, Riddhi Park, Sharanpur Road, Nashik 422002.\n\n
+
+</string>
+    <string name="saraswat_bank">
+    <b>Address</b> - 182, Sumant Apt Opp Ganpati Mandir, Mahatma Nagar, Nashik-422007\n\n
+    <b>Address</b>- G ? 4 And 5, Suyojit Ratan Mall, Opp. Nehru Garden, Shalimar\n\n
+    <b>Address</b>- G-1 and 2 Suyojit Trade Center Opp. Rajiv Gandhi Bhavan(N.M.C.) Sharanpur Road\n\n
+    <b>Address</b> Gadakh Sadan, Near Pumping Stop, Gangapur Road\n\n
+</string>
+    <string name="south_india_bank">
+        <b>Address</b>- Plot No 47, Mahatma Nagar Road, Anand Rupa Apartment, Parijat Nagar, Nasik
+    </string>
+
+    <string name="state_bank_of_bikaner_jaipur">
+        <b>Address</b>- Showroom No.-2, Rishiraj Heights, Mahatmanagar, Nearwater Tank
+    </string>
+    <string name="state_bank_of_hderabad">
+    <b>Address</b>- C T S No:6933 Plot No:4 Canada Corner Sharanpur Road, Nasik 422002 Maharashtra
+</string>
+    <string name="state_bank_of_india">
+<b>Address</b>- 1 Fine Tower, Main Road, Nasik, Maharashtra 422005\n\n
+
+<b>Address</b>- Adgaon Naka, Shop No. 6 Laxmi Narayan Mandir Trust, Nasik, Maharashtra 422003\n\n
+
+<b>Address</b>- Ashok Stambh Shop No. 3, Janakashram Phalke Aptt, Nasik, Maharashtra 422005\n\n
+
+<b>Address</b>- Bhonsala Militry School Campus, Ramabhoomi, Nasik, Maharashtra 422005\n\n
+
+<b>Address</b>- Bombay Naka Shop No. 3 Shri Sankul, Hotel Sandeep Near Mahamarg Taxi Stand, Nasik, Maharashtra 422002\n\n
+
+<b>Address</b>- Cidco Colony, Vilholi, Nasik, Maharashtra 422009\n\n
+
+<b>Address</b>- Dwarka Circle, Opp. Dwarka Hotel, Nasik, Maharashtra 422001\n\n
+
+<b>Address</b>- India Security Press, Near Fire Brigade, Nasik, Maharashtra 422101\n\n
+
+<b>Address</b>- India Security Press, Near Green Gate, Nasik, Maharashtra 422101\n\n
+
+<b>Address</b>- Mahal Main, Near Harihar Gadi Karkhana, Nasik, Maharashtra 422002\n\n
+
+<b>Address</b>- Manilal Chembars, Panchavati, Nasik, Maharashtra 422003\n\n
+
+<b>Address</b>- Satpur Nasik, Plot No. 7 Industrial Area, Satpur, Nasik, Maharashtra 422007\n\n
+
+<b>Address</b>- Trimbakeshwar, At and Post Trimbakeshwar, Tal. and District Nasik, Nasik, Maharashtra 422212\n\n
+
+<b>Address</b>- Vandana Park Building No. 2, Shop No. 13 Indira Nagar, Nasik, Maharashtra 422009\n\n
+
+<b>Address</b>- Vaze Hospital Campus, Rugved Vaze Hospital Campus, Nasik, Maharashtra 422101\n\n
+    </string>
+
+    <string name="state_bank_of_patiala">
+    <b>Address</b>- N 45/Cb I/6/4, Trimurti Chowk, Nasik, P.O.Cidco, Teh.Nasik, 422001
+    <b>Address</b>- Upendra Nagar Cidco Ambad Link Road Upendra Nagar Cidco Nasik 422009
+    </string>
+
+    <string name="syndicate_bank"><b>Address </b>- 431/4, Vishva Aprt. Near Ashok Stambh Old Agra Road</string>
+
+    <string name="mahanagar_co_op_bank">
+    
+    <b>Address</b> - Mirinda Apt, Uday Nagar, Gangapur Rd, Nashik.
+    <b>Address</b> - Pratibha Sankul, Gala No 5 To 10 Survey No 28/7, Hissa No 1, Ghatge Nagar Nashik Road
+
+    </string>
+    <string name="united_bank_of_india">
+        <b>Address</b> - Shri Ganesh Bhuvan, Near Ved Mandir, Trimbak Road, Nasik
+    </string>
+
+    <string name="vijaya_bank">
+        <b>Address</b>- P B No 416, 7, Abhyankar Plaza M.G. Road Nasik 422002 Maharashtra
+    </string>
+
+    <string name="yes_bank">
+        <b>Address</b>- Shop no 9 to 13,AGORA, Sno 999 and 1000, Canada Corner,Junction of Sharanpur and College road Nashik 422002.
+    </string>
+</resources>
+

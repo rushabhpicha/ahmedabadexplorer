@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.rushabh.nasikapp.ahmedabadexplorer">
+
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.CALL_PHONE" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".auto" />
+        <activity
+            android:name=".Express.ListofExpress"
+            android:windowSoftInputMode="adjustPan" />
+        <activity android:name=".Express.Express_schedule" />
+        <activity android:name=".Express.Express_main" />
+        <activity
+            android:name=".Express.Express_Station_List"
+            android:windowSoftInputMode="adjustPan" />
+        <activity android:name=".News_Main" />
+        <activity android:name=".News" />
+        <activity android:name=".emergency.ambulance" />
+        <activity android:name=".emergency.police" />
+        <activity android:name=".emergency.mseb" />
+        <activity android:name=".emergency.fire_brigade" />
+        <activity android:name=".emergency.bloodbank" />
+        <activity android:name=".emergency.government" />
+        <activity android:name=".emergency.emergency" />
+        <activity android:name=".foodies" />
+        <activity android:name=".movie" />
+        <activity android:name=".traffic_violation_fines" />
+        <activity android:name=".Nearest_Police_Station" />
+        <activity android:name=".Picnic"></activity>
+    </application>
+
+</manifest>
